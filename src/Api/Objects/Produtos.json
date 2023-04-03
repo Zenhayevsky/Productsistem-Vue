@@ -1,0 +1,32 @@
+[
+    { 
+      "id": "1",
+      "Produto": "Cafeteira",
+      "status": 1
+    },
+    { 
+      "id": "2",
+      "Produto": "Liquidificador",
+      "status": 0
+    },
+    { 
+      "id": "3",
+      "Produto": "Fogao",
+      "status": 0
+    },
+    { 
+      "id": "4",
+      "Produto": "Geladeira",
+      "status": 1
+    },
+    { 
+      "id": "5",
+      "Produto": "Panela",
+      "status": 1
+    },
+    { 
+      "id": "6",
+      "Produto": "Bebedouro",
+      "status": 1
+    }
+]

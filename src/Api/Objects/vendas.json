@@ -1,0 +1,13 @@
+
+[
+    { 
+      "idcliente": 4,
+      "idproduto": 2,
+      "statuscliente": 1
+    },
+    { 
+      "idcliente": 4,
+      "idproduto": 2,
+      "statuscliente": 1
+    }
+]
